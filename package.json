@@ -1,0 +1,24 @@
+{
+  "name": "node-express-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaumeduhan/node-express-boilerplate.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "boilerplate"
+  ],
+  "author": "Guillaume Duhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guillaumeduhan/node-express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/guillaumeduhan/node-express-boilerplate#readme"
+}
