@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "author": "Guillaume Duhan",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm run start"
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   },
   "repository": {
     "type": "git",
@@ -16,13 +21,8 @@
     "express",
     "boilerplate"
   ],
-  "author": "Guillaume Duhan",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/guillaumeduhan/node-express-boilerplate/issues"
   },
-  "homepage": "https://github.com/guillaumeduhan/node-express-boilerplate#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/guillaumeduhan/node-express-boilerplate#readme"
 }
