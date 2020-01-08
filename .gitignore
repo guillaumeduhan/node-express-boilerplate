@@ -18,6 +18,7 @@ serviceAccountKey.json
 
 # Optional npm cache directory
 .npm
+package-lock.json
 
 #Build
 public/css/main.css
