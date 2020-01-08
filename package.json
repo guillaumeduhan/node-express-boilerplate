@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/guillaumeduhan/node-express-boilerplate/issues"
   },
-  "homepage": "https://github.com/guillaumeduhan/node-express-boilerplate#readme"
+  "homepage": "https://github.com/guillaumeduhan/node-express-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
