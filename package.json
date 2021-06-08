@@ -1,5 +1,5 @@
 {
-  "name": "node-express-boilerplate",
+  "name": "gilbert-hubspot-node",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,10 +7,11 @@
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "nodemon app.js"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "hubspot": "^2.3.14"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/guillaumeduhan/node-express-boilerplate/issues"
   },
-  "homepage": "https://github.com/guillaumeduhan/node-express-boilerplate#readme"
+  "homepage": "https://github.com/guillaumeduhan/node-express-boilerplate#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
