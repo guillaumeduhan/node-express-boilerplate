@@ -1,9 +1,10 @@
 {
   "name": "node-express-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A very simple node-express boilerplate.",
   "main": "app.js",
-  "author": "Guillaume Duhan",
+  "type": "module",
+  "author": "guillaumeduhan",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
